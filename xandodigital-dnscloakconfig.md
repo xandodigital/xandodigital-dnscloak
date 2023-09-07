@@ -1,2 +1,2 @@
 [static.'Xando Digital's Private Relay']
-stamp = 'sdns://AgcAAAAAAAAAAAAlaHR0cHM6Ly9wcml2YXRlcmVsYXkueGFuZG9kaWdpdGFsLm5ldAovZG5zLXF1ZXJ5'
+stamp = 'sdns://AgcAAAAAAAAAJWh0dHBzOi8vcHJpdmF0ZXJlbGF5LnhhbmRvZGlnaXRhbC5uZXQAGm1vemlsbGEuY2xvdWRmbGFyZS1kbnMuY29tCi9kbnMtcXVlcnk'
